@@ -20,11 +20,9 @@ Learning
 ---
 
 ## ✨ A bit more about me
+I’ve been hooked on gaming since I was a kid — started with Atari 2600 and NES, but the original PlayStation is what really got me hooked. After that, games like Sekiro, Lineage II, and Final Fantasy X left a big mark and sparked my curiosity about how these worlds are made.
 
-- 
-
-### 💎 Some fun facts
-- 
+My goal? Keep learning, build games that excite people, and join teams that share this same passion.
 
 ---
 
