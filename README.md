@@ -34,6 +34,10 @@ My goal? Keep learning, build games that excite people, and join teams that shar
   
 ---
 
+![adriplodocus's Stats](https://github-readme-stats.vercel.app/api?username=adriplodocus&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<br/>
+![adriplodocus's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adriplodocus&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 
 
