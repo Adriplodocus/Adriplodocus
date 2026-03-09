@@ -32,6 +32,6 @@ I love games 🎮, I wondered how they were made 🤔. So, I'm creating them! �
 ## 📫 Get in touch with me
 
 - 📧 adrian08.1991@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/adriandurangarcia/)
-- 🌐 [Website](https://adriplodocus.github.io/index.html)
-- 📖 [Portfolio](https://adriplodocus.github.io/PersonalProjects.html)
+- 💼 <a href="https://www.linkedin.com/in/adriandurangarcia/" target="_blank">LinkedIn</a>
+- 🌐 <a href="https://adriplodocus.github.io/index.html" target="_blank">Website</a>
+- 📖 <a href="https://adriplodocus.github.io/PersonalProjects.html" target="_blank">Portfolio</a>
