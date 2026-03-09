@@ -1,17 +1,18 @@
-# Who's this guy?!
+# Hey! This is Adrián 🧔🏻
 
-### 🎮 Senior Games Developer | 🪄 Unity and C# wizard | 🧪 Exploring Python & Web development
+### 🎮 Senior Games Developer | 🪄 Unity and C# wizard | 🧪 Exploring Python, Java and web
 
-I write stuff ⌨️ it becomes playable stuff 🕹️ people have fun 🥳
+I love games 🎮, I wondered how they were made 🤔. So, I'm creating them! 🔥
 
-High knowledge
+💯 Experienced
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
 ![Unity](https://img.shields.io/badge/-Unity-000?style=flat-square&logo=unity)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
-Learning
+📚 Learning
 
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -19,15 +20,18 @@ Learning
 
 ---
 
-## ✨ A bit more about me
-I’ve been hooked on gaming since I was a kid — started with Atari 2600 and NES, but the original PlayStation is what really got me hooked. After that, games like Sekiro, Lineage II, and Final Fantasy X left a big mark and sparked my curiosity about how these worlds are made.
+## ✨ More about me
+🧔🏻 I've been playing games since I was a kid. I started with the Atari 2600 and the NES, but it was the PlayStation 1 that truly introduced me to the world of video games. Since then, I've tried to learn something from every game I've played.
 
-My goal? Keep learning, build games that excite people, and join teams that share this same passion.
+✨ Favourites: Sekiro: Shadows Die Twice, Lineage II, Final Fantasy X, Clair Obscur: Expedition 33, Resident Evil: Requiem.
+
+🎯 Goal: To keep learning, create experiences that people enjoy, and collaborate with teams that share the same passion.
 
 ---
 
-## 📫 Get in touch
+## 📫 Get in touch with me
 
 - 📧 adrian08.1991@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/adriandurangarcia/)
-- 🌐 [Portfolio / Website](https://adriplodocus.github.io/)
+- 🌐 [Website](https://adriplodocus.github.io/index.html)
+- 📖 [Portfolio](https://adriplodocus.github.io/PersonalProjects.html)
