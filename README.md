@@ -6,17 +6,17 @@ I love games 🎮, I wondered how they were made 🤔. So, I'm creating them! �
 
 💯 Experienced
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
-![Unity](https://img.shields.io/badge/-Unity-000?style=flat&logo=unity)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=sharp&logoColor=ffffff)
+![Unity](https://img.shields.io/badge/-Unity-000?style=flat&logo=unity&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
 
 📚 Learning
 
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=ffffff)
 
 ![Adriplodocus github stats](https://github-readme-stats-fast.vercel.app/api?username=adriplodocus&show_icons=true&theme=radical)
 
