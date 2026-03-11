@@ -18,8 +18,9 @@ I love games 🎮, I wondered how they were made 🤔. So, I'm creating them! �
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=ffffff)
 
+<!--
 ![Adriplodocus github stats](https://github-readme-stats-fast.vercel.app/api?username=adriplodocus&show_icons=true&theme=radical)
-
+-->
 ---
 
 ## ✨ More about me
