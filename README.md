@@ -2,7 +2,7 @@
 
 ### 🎮 Senior Games Developer | 🪄 Unity and C# wizard | 🧪 Exploring Python, Java and web
 
-I love games 🎮, I wondered how they were made 🤔. So, I'm creating them! 🔥
+I love games and I wondered how they were made 🤔. So, I decided to create them myself! 🔥
 
 💯 Experienced
 
